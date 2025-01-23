@@ -24,9 +24,7 @@ def main():
             "search_results": []
         }
         
-        # Create containers for results
         search_results_container = st.empty()        
-        # Execute graph
         final_results = None
         
         # Process results
